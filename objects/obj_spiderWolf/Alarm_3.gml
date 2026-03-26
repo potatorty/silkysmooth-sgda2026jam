@@ -1,0 +1,1 @@
+//when the spider dies, explodes and spawns baby spiders

@@ -1,0 +1,1 @@
+image_blend = c_white; //can be hit again 

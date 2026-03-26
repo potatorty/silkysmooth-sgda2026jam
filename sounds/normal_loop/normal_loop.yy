@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"normal_loop",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":120.03265,
+  "exportDir":"",
+  "name":"normal_loop",
+  "parent":{
+    "name":"Audio",
+    "path":"folders/Audio.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"normal_loop.mp3",
+  "volume":1.0,
+}
